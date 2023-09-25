@@ -5,6 +5,9 @@ import 'package:cinemapedia_dos/domain/infrastructure/mappers/movie_mappers.dart
 import 'package:cinemapedia_dos/domain/infrastructure/models/moviedb/moviedb_response.dart';
 import 'package:dio/dio.dart';
 
+// en moviesdatasource defino que es lo que necesitare
+// aca reescribo los metodos definidos en mmoviedatasource
+
 // aqui implementamos lo quye el datasource pida
 // el mencanismo para obtener las listas de peliculas
 // ya sea peticion http json lo que sea
